@@ -2,6 +2,9 @@
 Initial Thoughts:
 This project began as an exploration—an opportunity to play with the dataset, discover insights, and refine data analysis techniques. Over time, it has evolved into a portfolio showcasing various methods for wrangling and analyzing data. It has been a journey, and there's still much more to uncover.
 ![Pin Icon](images/pin.png)
+## 🎬 Portfolio Showcase – Gamma App  
+This Steel project is now part of a broader analytics portfolio exploring forecasting, regime analysis, and environmental diagnostics.  
+Interactive Gamma app:https://gamma.app/docs/Susan-Schnitzel-Portfolio-of-Analysis-of-Steel-Industry-cvmxtigev33ntwm
 
 Key Findings & Analysis
 1. Data Cleaning & Exploration
