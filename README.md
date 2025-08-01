@@ -57,3 +57,11 @@ The dataset lacks cost data, so savings estimates are based on external benchmar
 Actual savings may differ due to plant-specific electricity rates and operational constraints.
 
 Further refinement and testing of predictive models will help improve accuracy.
+## Steel Industry Energy Optimization
+- **Overview**: Reduced energy usage by 17.2% ($20,467.13/year savings) using Random Forest, XGBoost, SARIMAX, and Lean Six Sigma.
+- **Key Insights**:
+  - Winter peak: 32.08 kWh (raw data, 8,640 rows, $5,911.53 savings).
+  - SARIMAX forecast: 19.34 kWh.
+  - Kruskal-Wallis test: Significant seasonal differences (Statistic = 1919.11, p = 0.0).
+- **Files**: `analysis_script.py`, `plots/`.
+- **Visuals**: [Savings by Season](plots/savings_by_season.png), [Savings Table](plots/savings_table.png).
