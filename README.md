@@ -65,3 +65,14 @@ Further refinement and testing of predictive models will help improve accuracy.
   - Kruskal-Wallis test: Significant seasonal differences (Statistic = 1919.11, p = 0.0).
 - **Files**: `analysis_script.py`, `plots/`.
 - **Visuals**: [Savings by Season](plots/savings_by_season.png), [Savings Table](plots/savings_table.png).
+- ##  Random Forest Classifier: CO₂ Diagnostics - added a new notebook (duplicate, but with added code.)
+
+This notebook applies a Random Forest classifier to predict CO₂ classification outcomes, excluding rows with zero energy usage to preserve model integrity. Diagnostics include:
+
+- Confusion matrix with annotated labels  
+- ROC curve and precision-recall curve  
+- TPR/FPR analysis across thresholds  
+- SHAP feature importance, beeswarm, and dependence plots  
+
+These visuals support interpretability and align with Six Sigma principles of transparency and root cause analysis.
+[View the notebook](./Random%20Forest%20Classifier:%20Model%20Training/Analysis/ADDEDRandomForestClasswithSHAPandother%20visuals.ipynb)
