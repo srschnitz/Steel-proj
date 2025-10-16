@@ -1,10 +1,11 @@
 #Steel-proj
 Initial Thoughts:
 This project began as an exploration—an opportunity to play with the dataset, discover insights, and refine data analysis techniques. Over time, it has evolved into a portfolio showcasing various methods for wrangling and analyzing data. It has been a journey, and there's still much more to uncover.
-![Pin Icon](images/pin.png)
 ## 🎬 Portfolio Showcase – Gamma App  
 This Steel project is now part of a broader analytics portfolio exploring forecasting, regime analysis, and environmental diagnostics.  
-Interactive Gamma app:https://gamma.app/docs/Susan-Schnitzel-Portfolio-of-Analysis-of-Steel-Industry-cvmxtigev33ntwm
+Interactive Gamma app: https://gamma.app/docs/Susan-Schnitzel-Portfolio-of-Analysis-of-Steel-Industry-cvmxtigev33ntwm?mode=doc
+Condensed Version of Portfolio: https://gamma.app/docs/Condensed-portfolio-steel-analysis-srschnitz-i0bsi3orpkyk48p?mode=doc
+Ammendment to Portfolio (ML):  https://gamma.app/docs/Random-Forest-Classification-of-CO2-ML-xyf22ngxhot7dvm?mode=doc
 
 Key Findings & Analysis
 1. Data Cleaning & Exploration
@@ -38,13 +39,11 @@ Using an industrial electricity rate of $0.10/kWh (South Korea estimates from KE
 $10,000/year from power factor optimization.
 $1,500/year from humidity adjustments.
 $2,000/year from load scheduling.
-![Pin Icon](images/pin.png)
 
 Total estimated cost savings: $13,500/year 📌 Reference: IEA Iron & Steel Technology Roadmap.
 
 6. Business & Environmental Impact
 These improvements reduce operational costs and CO₂ emissions (approx. 100 tons/year, assuming 0.75 kg CO₂/kWh).
-![Pin Icon](images/pin.png)
 
 Sustainability gains: Per ScienceDirect, South Korean steel plants have significant energy-saving potential, validating this approach. 📌 Reference: ScienceDirect Study on Steel Plant Efficiency.
 
