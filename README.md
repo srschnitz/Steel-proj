@@ -1,6 +1,6 @@
 #Steel-proj
 Initial Thoughts:
-This project began as an exploration—an opportunity to play with the dataset, discover insights, and refine data analysis techniques. Over time, it has evolved into a portfolio showcasing various methods for wrangling and analyzing data. It has been a journey, and there's still much more to uncover.
+This project began as an exploration and an opportunity to play with the dataset, discover insights, and refine data analysis techniques. Over time, it has evolved into a portfolio showcasing various methods for wrangling and analyzing data. It has been a journey, and there's still much more to uncover.
 ## 🎬 Portfolio Showcase – Gamma App  
 This Steel project is now part of a broader analytics portfolio exploring forecasting, regime analysis, and environmental diagnostics.  
 Interactive Gamma app: https://gamma.app/docs/Susan-Schnitzel-Portfolio-of-Analysis-of-Steel-Industry-cvmxtigev33ntwm?mode=doc
@@ -23,7 +23,7 @@ Energy & CO₂ Correlations
 Exploratory Data Analysis (EDA) using Spearman correlation confirmed a strong relationship (correlation = 0.72, p < 0.001) between Usage_kWh and Lagging_Current_Reactive.Power_kVarh, highlighting electrical inefficiency.
 Humidity’s impact on energy: Energy usage spikes above 85% relative humidity, likely due to increased drying energy required for iron ore.
 Predictive modeling:
-Random Forest modeling (R² = 0.88) identified reactive power and humidity as key drivers of energy consumption.
+Random Forest modeling (R² = 0.9998) identified reactive power and humidity as key drivers of energy consumption.
 Working on revamping my other models with adding humidity.  More to come here.  
 CO₂ and Energy Usage show strong collinearity, requiring separate models for each response variable.
 
